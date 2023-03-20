@@ -26,6 +26,13 @@
             @endforeach
 
         </div>
+        <div class="row">
+            <div class="col text-center">
+
+                <a href="{{ route('comics.create') }}" class="btn btn-success">Aggiungi un fumetto</a>
+
+            </div>
+        </div>
     </div>
 
 @endsection
