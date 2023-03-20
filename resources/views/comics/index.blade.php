@@ -30,6 +30,7 @@
             <div class="col text-center">
 
                 <a href="{{ route('comics.create') }}" class="btn btn-success">Aggiungi un fumetto</a>
+                {{-- <a href="{{ route('comics.') }}" class="btn btn-success">Elimina un fumetto</a> --}}
 
             </div>
         </div>
